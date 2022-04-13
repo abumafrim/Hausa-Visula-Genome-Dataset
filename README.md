@@ -22,16 +22,16 @@ This is a repository for Hausa Visual Genome dataset, containing about 33K image
 
 ## Table of Contents
 
-  - [The problem](#the-problem)
+  - [The Problem](#the-problem)
   - [Language Resources Developed](#language-resources-developed)
     - [Dataset Formats](#dataset-formats)
     - [Data Statistics](#data-statistics)
-  - [Papers from this project](#papers-from-this-project)
+  - [Using The Dataset](#using-the-dataset)
+  - [Paper(s) from this Project](#papers-from-this-project)
   - [The Team](#the-team)
-  - [Contact us](#contact-us)
+  - [Contact Us](#contact-us)
   - [Glossary](#glossary)
   
-
 
 ## The Problem
 
@@ -80,11 +80,14 @@ The statistics of the current release is given below.
 
 * *The word counts are obtained after tokenization using the NLTK punkt tokenizer.*
 
+
+## Using The Dataset
+
+
 ## Papers from this project 
 
 The dataset description and baseline experiments paper has been accepted at the Language Resources and Evaluation Conference 2022 (*LREC2022*). The details of the paper will be provided after it has been published. Thank you.
   
-
  
 ## The Team
 
